@@ -9,7 +9,7 @@
 </p>
     
 
-# Yukki Chat Bot
+# Star Boy Chat Bot
 A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymous Identity, Supports Groups. Works Similarly like Livegram Bot
 
 ## 🖇 Prerequisites
@@ -21,7 +21,7 @@ A Powerful Telegram Chat Bot written in pyrogram. Useful for Feedbacks , Anonymo
 
 ## 🚀 Heroku Deployment
 
-<h4>Click the button below to deploy Yukki Chat Bot on Heroku!</h4>    
+<h4>Click the button below to deploy Star Boy Chat Bot on Heroku!</h4>    
 <a href="https://dashboard.heroku.com/new?template=https://github.com/ITZ-STAR-BOY/StarBoyChatBot"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200""/></a>
 
 ## 🖇 VPS Deployment
@@ -56,6 +56,6 @@ shikhar@MacBook~ $ python3 main.py
 
 ## 🗂 License
 
-This project is licensed under the **MIT License**. All designs were created by [@NotReallyShikhar](https://github.com/NotReallyShikhar) .
+This project is licensed under the **MIT License**. All designs were created by [@ITZ-STAR-BOY](https://github.com/ITZ-STAR-BOY) .
 
 See [LICENSE](LICENSE) for more information.
